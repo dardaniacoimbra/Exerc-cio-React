@@ -10,4 +10,4 @@
 6.Import no App.js os componentes criados, perceba os erros/warnings que o terminal/console mostra, resolva e faça todos os componentes renderizar na tela
 7.Suba esse projeto no github, atualize o read me contando tudo o que você aprendeu e usou. E suba no classroom.
 8.Tente fazer entre domingo e terça, para aproveitar a aula de quarta e as monitorias pra tirar dúvidas.
-9.Arraseee! E qualquer coisa, me chama!
+9.Arraseee! E qualquer coisa, me chama!!
